@@ -2,6 +2,7 @@
 
 ## to run the project
 
-```npm run start.
+```sh
+npm run start
 
 ```
